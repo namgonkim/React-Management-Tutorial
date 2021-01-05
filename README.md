@@ -1,5 +1,11 @@
 ## Management System
+
 고객관리 시스템 - 유튜브 리엑트 강의
+
+## Run
+
+`npm i --save`
+
 
 # Getting Started with Create React App
 
