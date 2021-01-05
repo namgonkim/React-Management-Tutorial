@@ -4,9 +4,10 @@
 
 ## Run
 
-`npm i --save
- npm run dev
-`
+```
+npm i --save
+npm run dev
+```
 
 
 
