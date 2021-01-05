@@ -4,7 +4,10 @@
 
 ## Run
 
-`npm i --save`
+`npm i --save
+ npm run dev
+`
+
 
 
 # Getting Started with Create React App
