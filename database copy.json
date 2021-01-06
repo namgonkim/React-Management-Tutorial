@@ -1,0 +1,7 @@
+{
+    "host" : "DB주소(로컬 or AWS)",
+    "user" : "DB아이디",
+    "password" : "DB비번",
+    "port" : "DB포트",
+    "database" : "management"
+}
