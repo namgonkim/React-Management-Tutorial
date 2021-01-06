@@ -10,3 +10,5 @@ npm run dev
 ```
 ### Stack
 * node js & react
+
+## Result Screen
